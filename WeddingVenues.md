@@ -1,7 +1,10 @@
-# Mum and Dad's Place (H1 Limit - Title) 
+# Mum and Dad's Place
 * Ceremony only
 
-## To Do
-* Need flowers
+## Things We Need
+* Flowers
   * Not roses
-
+  * Paper flowers?
+* Champagne
+* Chairs
+* 
